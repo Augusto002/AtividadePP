@@ -1,0 +1,16 @@
+C:\Users\henri\source\repos\AtividadePPAugusto\AtividadePPAugusto\bin\Debug\net5.0\AtividadePPAugusto.exe
+C:\Users\henri\source\repos\AtividadePPAugusto\AtividadePPAugusto\bin\Debug\net5.0\AtividadePPAugusto.deps.json
+C:\Users\henri\source\repos\AtividadePPAugusto\AtividadePPAugusto\bin\Debug\net5.0\AtividadePPAugusto.runtimeconfig.json
+C:\Users\henri\source\repos\AtividadePPAugusto\AtividadePPAugusto\bin\Debug\net5.0\AtividadePPAugusto.runtimeconfig.dev.json
+C:\Users\henri\source\repos\AtividadePPAugusto\AtividadePPAugusto\bin\Debug\net5.0\AtividadePPAugusto.dll
+C:\Users\henri\source\repos\AtividadePPAugusto\AtividadePPAugusto\bin\Debug\net5.0\ref\AtividadePPAugusto.dll
+C:\Users\henri\source\repos\AtividadePPAugusto\AtividadePPAugusto\bin\Debug\net5.0\AtividadePPAugusto.pdb
+C:\Users\henri\source\repos\AtividadePPAugusto\AtividadePPAugusto\obj\Debug\net5.0\AtividadePPAugusto.csprojAssemblyReference.cache
+C:\Users\henri\source\repos\AtividadePPAugusto\AtividadePPAugusto\obj\Debug\net5.0\AtividadePPAugusto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\source\repos\AtividadePPAugusto\AtividadePPAugusto\obj\Debug\net5.0\AtividadePPAugusto.AssemblyInfoInputs.cache
+C:\Users\henri\source\repos\AtividadePPAugusto\AtividadePPAugusto\obj\Debug\net5.0\AtividadePPAugusto.AssemblyInfo.cs
+C:\Users\henri\source\repos\AtividadePPAugusto\AtividadePPAugusto\obj\Debug\net5.0\AtividadePPAugusto.csproj.CoreCompileInputs.cache
+C:\Users\henri\source\repos\AtividadePPAugusto\AtividadePPAugusto\obj\Debug\net5.0\AtividadePPAugusto.dll
+C:\Users\henri\source\repos\AtividadePPAugusto\AtividadePPAugusto\obj\Debug\net5.0\ref\AtividadePPAugusto.dll
+C:\Users\henri\source\repos\AtividadePPAugusto\AtividadePPAugusto\obj\Debug\net5.0\AtividadePPAugusto.pdb
+C:\Users\henri\source\repos\AtividadePPAugusto\AtividadePPAugusto\obj\Debug\net5.0\AtividadePPAugusto.genruntimeconfig.cache
